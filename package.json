@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "discord.js-selfbot-v13": "^2.14.6"
+  },
+  "name": "username-check-bot",
+  "version": "1.0.0",
+  "main": "novasy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "novasy.",
+  "license": "ISC",
+  "description": "Novasy tarafından kodlanmıştır."
+}
