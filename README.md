@@ -2,7 +2,7 @@ Selam gençler,
 
 Yeni gelen username sistemi için bir bot yapmak istedim bu bot istediğiniz nicki boşa düştüğü zaman otomatik olarak alıyor rate limit vb. gibi bir durum yok öncelikle bu botun kurulumu biraz uzun nasıl kuracağınızı anlatıcam harfiyen uymanız gerekiyor.
 
-- İlk önce `npm i` yazarak modüllerimizi yüklüyoruz.
+- İlk önce <a href="https://github.com/novasy/Username-Snipper/blob/master/install.bat" target="_blank">install.bat</a> dosyasını açarak modüllerimizi yüklüyoruz.
 - Ardından node_modules klasörü içerisine girip sırasıyla `discord.js-selfbot-v13 > managers > ClientUser.js` bu dosyada bulunan `180.` satırı tamamen siliyoruz satırda `discriminator: this.discriminator,` yazıyor tamamen silin bunu boş kalsın eğer bunu yapmazsanız çalışmaz.
 - Ardından <a href="https://github.com/novasy/Username-Snipper/blob/master/config.json" target="_blank">config.json</a> dosyamızı açıp eksiksiz ve doğru bir şekilde dolduruyoruz.
 
