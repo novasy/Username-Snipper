@@ -19,4 +19,4 @@ Yeni gelen username sistemi için bir bot yapmak istedim bu bot istediğiniz nic
 
 - Sonra tek yapmamız gereken <a href="https://github.com/novasy/Username-Snipper/blob/master/novasy.bat" target="_blank">novasy.bat</a> dosyasını çalıştırmak.
 
-<a href="https://discord.com/users/729226812776906832" target="_blank">Discord Hesabım</a>
+Yardım/Destek için <a href="https://discord.com/users/729226812776906832" target="_blank">Discord</a> üzerinden bana ulaşabilirsiniz.
