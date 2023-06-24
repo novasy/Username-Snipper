@@ -1,6 +1,6 @@
 Selam gençler,
 
-Yeni gelen username sistemi için bir bot yapmak istedim bu bot istediğiniz nicki boşa düştüğü zaman otomatik olarak alıyor rate limit vb. gibi bir durum yok öncelikle bu botun kurulumu biraz uzun nasıl kuracağınızı anlatıcam harfiyen uymanız gerekiyor.
+Yeni gelen username sistemi için bir bot yapmak istedim bu bot istediğiniz nicki boşa düştüğü zaman otomatik olarak alıyor rate limit vb. gibi bir durum yok nasıl kuracağınızı anlatıcam harfiyen uyarsanız çalışır.
 
 - İlk önce <a href="https://github.com/novasy/Username-Snipper/blob/master/install.bat" target="_blank">install.bat</a> dosyasını açarak modüllerimizi yüklüyoruz.
 - Ardından <a href="https://github.com/novasy/Username-Snipper/blob/master/config.json" target="_blank">config.json</a> dosyamızı açıp eksiksiz ve doğru bir şekilde dolduruyoruz.
