@@ -12,7 +12,7 @@ Yeni gelen username sistemi için bir bot yapmak istedim bu bot istediğiniz nic
     "SelfBotPassword" : "Düştüğü zaman hangi hesaba bu nicki alacaksanız o hesabın şifresi.",
     "Username" : "Almak istediğiniz nickname.",
     "UserID" : "Şu an o nickname'e sahip kişinin ID'si.", 
-    "WebhookLink" : "Nick alındığında etiket atılacak kanal."
+    "WebhookLink" : "Nick alındığında etiket atılacak webhook linki."
 }
 ```
 
